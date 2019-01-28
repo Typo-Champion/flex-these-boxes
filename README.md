@@ -4,7 +4,7 @@
 
 * Fork this repo. Make _sure_ you're cloning the **forked** version, NOT the original!
 * Unless otherwise noted, do not edit the HTML. You should be working in the CSS file! CSS is magic!
-* You will be adding, committing, and pushing with EVERY SINGLE BULLET POINT BELOW. I want to see commit messages of "Adds holy grail layour", "rotates layout", "moves sidebar back to the right of content", and so on. I'll be checking this!
+* You will be adding, committing, and pushing with EVERY SINGLE BULLET POINT BELOW. I want to see commit messages of "Adds holy grail layour", "rotates layout", "rotates layout back", "fixes user avatar src paths", and so on. I'll be checking this!
 * Open the page in a browser. (VS Live Server is a great solution for this.) Boy is this thing ugly, huh? Give the project a Holy Grail layout with flexbox. The divs, with ids and classes, have already been made for you.
 * Give the links in the nav section some spacing in between. With flexbox, mind you!
 * Now rotate that layout by -90 degrees, i.e., counter-clockwise, i.e., to the left. The header should end up on the left and the sidebar at the bottom. You should be able to do this simply by changing one line of css and adding another!
