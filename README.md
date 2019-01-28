@@ -7,7 +7,7 @@
 * You will be adding, committing, and pushing with EVERY SINGLE BULLET POINT BELOW. I want to see commit messages of "Adds holy grail layout", "rotates layout", "rotates layout back", "fixes user avatar src paths", and so on. I'll be checking this!
 * Open the page in a browser. (VS Live Server is a great solution for this.) Boy is this thing ugly, huh? Give the project a Holy Grail layout with flexbox. The divs, with ids and classes, have already been made for you.
 * Give the links in the nav section some spacing in between. With flexbox, mind you!
-* Now rotate that layout by -90 degrees, i.e., counter-clockwise, i.e., to the left. The header should end up on the left and the sidebar at the bottom. You should be able to do this simply by changing one line of css and adding another!
+* Now rotate that layout by -90 degrees, i.e., counter-clockwise, i.e., to the left. The header should end up on the left and the navbar at the bottom. You should be able to do this simply by changing one line of css and adding another!
 * Now change it back.
 * The `src` attributes on the user avatars are broken. Fix them. Use the HTML for this step (and this step alone!).
 * Put the user profile cards in a row next to each other.
